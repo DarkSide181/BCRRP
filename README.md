@@ -1,1 +1,1 @@
-Server New
+Got Server
